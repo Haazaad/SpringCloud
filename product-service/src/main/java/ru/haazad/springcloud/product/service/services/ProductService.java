@@ -2,7 +2,6 @@ package ru.haazad.springcloud.product.service.services;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
-import ru.haazad.springcloud.common.dtos.ProductDto;
 import ru.haazad.springcloud.product.service.dtos.ProductServiceDto;
 import ru.haazad.springcloud.product.service.exceptions.ResourceNotFoundException;
 import ru.haazad.springcloud.product.service.repositories.ProductRepository;
